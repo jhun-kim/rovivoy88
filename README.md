@@ -28,9 +28,11 @@ Always start with you
 ## 💻 Working On It!
 
 #### connect with me
+<div align=left> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
+</div>
 
 
 #### Web
