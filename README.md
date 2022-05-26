@@ -43,6 +43,7 @@ Always start with you
     <img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-
+
 </div>
 
 <br/>
@@ -56,7 +57,9 @@ Always start with you
 	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
 </div>
+
 <br/>
+
 
 <div align=center>
 
