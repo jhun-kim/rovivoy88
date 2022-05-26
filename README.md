@@ -2,7 +2,7 @@
 
 I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 
-[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyjh486@gmail.com)](mailto:gyjh486@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
+[![Gmail Badge](https://img.shields.io/badge/-gyjh486@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyjh486@gmail.com)](mailto:gyjh486@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 ![](https://komarev.com/ghpvc/?username=rovivoy88)
