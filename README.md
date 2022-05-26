@@ -37,7 +37,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 ## 📘 Bio
 
 - 🏢 I'm born in South Korea, develop my life on NewZealand
-- ⚙️ I really love commite everyting, communication with you
+- ⚙️ I really love commit everyting, communication with you
 - 💬 My major was english literature, had worked in coffee industry 
 - 💉 certificate finance Big data analyst form Ubion AI Lab
 - Welcome to my GitHub, enjoy your life
