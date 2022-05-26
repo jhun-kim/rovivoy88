@@ -13,6 +13,7 @@ Always start with you
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 <br/>
 <br/>
+
 ## 🙇🏻‍♂️ Bio
 
 - I'm born in South Korea, develop my life on NewZealand
@@ -42,13 +43,12 @@ Always start with you
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
     <img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white">
     <img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white">
-    <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-
+    <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=pandas&logoColor=white">
 
 </div>
-
+<br/>
 <br/>
   
- 
 ## 🐣 Soon...
 
 #### Python Web
@@ -56,8 +56,8 @@ Always start with you
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
 	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
-</div>
 
+</div>
 <br/>
 
 
