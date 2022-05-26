@@ -2,11 +2,12 @@
 
 I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 
-[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:gyjh486@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
+[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gyjh486@gmail.com)](mailto:gyjh486@gmail.com) [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 ![](https://komarev.com/ghpvc/?username=rovivoy88)
 
+</br>
 
 ## 💻 Tech Lover
 
@@ -15,7 +16,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 - Coding
 - Data Science
 
-
+</br>
 
 ## 🤐 Programming Languages
 
@@ -31,6 +32,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 
 </div>
 
+</br>
 
 ## 📘 Bio
 
@@ -40,6 +42,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 - 💉 certificate finance Big data analyst form Ubion AI Lab
 - Welcome to my GitHub, enjoy your life
 
+</br>
 
 ## 📱 Social Activities
 
@@ -47,6 +50,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 
+</br>
 
 
 ## 🔥 Epic Career
@@ -59,6 +63,7 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 - NewZealand Latteart Champion 2019
 - Korea Latteart Champion 2014
 
+</br>
 
 <div align=left>
 
@@ -66,8 +71,11 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 ![rovivoy's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovivoy88&theme=react&show_icons=true)
 </div>
 
+
+</br>
+
 <div align=center>
 	
 ##### Thanks for visiting!
-![JHKIM's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
+![rovivoy's Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHAERANGMAN1212%2Fhit-counter)
 </div>
