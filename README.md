@@ -1,41 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=rovivoy88&fontSize=90)
+# Hello world! I'm Rovi Kim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-'HI THERE, I'M Rovi Kim👋'
--------
-	   
-Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**
-- **Always start with you**
+I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 
-
-#### connect with me
-[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
+[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:gyjh486@gmail.com)[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
-<br/>
-<br/>
-
-## 🙇🏻‍♂️ Bio
-
-- I'm born in South Korea, develop my life on NewZealand
-- I really love commite everyting, communication with you
-- My major was english literature, had worked in coffee industry 
-- certificate finance Big data analyst form Ubion AI Lab
-- Welcome to my GitHub, enjoy your life
-<!-- <div align=left>
-    <img alt="" src="https://simpleicons.org/icons/buymeacoffee.svg" width=5%>  
-        
-</div> -->
-<br/>
-  
-  
-## 💻 Working On It!
+![](https://komarev.com/ghpvc/?username=rovivoy88)
 
 
-#### Web
-<div align=left>     
-    <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>    
-    <img alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>      
-</div>
+## 💻 Tech Lover
+
+- Machine Learning
+- Deep Learning
+- Coding
+- Data Science
+
+
+
+## 🤐 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%23323330.svg?&style=for-the-badge&logo=Numpy&logoColor=%23F7DF1E"/> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23777BB4.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/Flask-%23777BB4.svg?&style=for-the-badge&logo=Flask&logoColor=white"/>
 
 #### ML, DL
 
@@ -46,22 +30,44 @@ Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**
     <img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=pandas&logoColor=white">
 
 </div>
-<br/>
-<br/>
-  
-## 🐣 Soon...
 
-#### Python Web
+
+## 📘 Bio
+
+- 🏢 I'm born in South Korea, develop my life on NewZealand
+- ⚙️ I really love commite everyting, communication with you
+- 💬 My major was english literature, had worked in coffee industry 
+- 💉 certificate finance Big data analyst form Ubion AI Lab
+- Welcome to my GitHub, enjoy your life
+
+
+## 📱 Social Activities
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
+
+
+## 🙋🏻 Mentoring Programs
+
+- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022)
+- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
+- [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
+- 비트캠프 인공지능 멘토 (2019)
+
+
+## 🔥 Epic Career
+
+- Certificate Finance Bigdata Analyst form Ubion AI Lab 
+- Currently Techman, To be Engineer
+- Loaded to Humanities
+- Worked in Coffee Industry
+- USA Latteart Champion 2017
+- NewZealand Latteart Champion 2019
+- Korea Latteart Champion 2014
+
+
 <div align=left>
-	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-	<img alt="" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-	<img alt="" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=green">
-
-</div>
-<br/>
-
-
-<div align=center>
 
 ![rovivoy's github stats](https://github-readme-stats.vercel.app/api?username=rovivoy88&theme=react&show_icons=true,prs&cache_seconds=1800)
 ![rovivoy's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rovivoy88&theme=react&show_icons=true)
