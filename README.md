@@ -4,7 +4,7 @@
 -------
 	   
 Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**
-Always start with you
+- **Always start with you**
 
 
 #### connect with me
