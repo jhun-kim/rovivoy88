@@ -4,8 +4,10 @@
 -------
 	   
 Hi, I'm Coding Lover! I'am still learning and do like **'Day1'**
-Always start with you      
+Always start with you
 
+
+#### connect with me
 [![Instagram Badge](https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rovivoy/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-4285f4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abcrang@gmail.com)](mailto:gyjh486@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
@@ -26,13 +28,6 @@ Always start with you
   
   
 ## 💻 Working On It!
-
-#### connect with me
-<div align=left> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
-</div>
 
 
 #### Web
@@ -64,8 +59,8 @@ Always start with you
 
 <div align=center>
 
-![JHKIM's github stats](https://github-readme-stats.vercel.app/api?username=JHKIM&theme=react&show_icons=true,prs&cache_seconds=1800)
-![JHKIM's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
+![rovivoy's github stats](https://github-readme-stats.vercel.app/api?username=JHKIM&theme=react&show_icons=true,prs&cache_seconds=1800)
+![rovivoy's github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HAERANGMAN&theme=react&show_icons=true)
 </div>
 
 <div align=center>
