@@ -48,13 +48,6 @@ I❤️ code, Python and  I'am still learning **LIFE**✨ with you
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link={link})](https://rovivoy88.github.io/)
 
 
-## 🙋🏻 Mentoring Programs
-
-- [모두의연구소](https://modulabs.co.kr) AIFFELTHON 최종 발표회 심사위원 (Mar 2022)
-- 강원대학교 코딩 부트캠프 개발자 진로상담 멘토 (Feb 2022)
-- [홀릭스 빵형의 인공지능](https://app.holix.com/chatroom/dqgVn6gL) 멘토
-- 비트캠프 인공지능 멘토 (2019)
-
 
 ## 🔥 Epic Career
 
