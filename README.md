@@ -21,10 +21,10 @@ Always start with you
 - My major was english literature, had worked in coffee industry 
 - certificate finance Big data analyst form Ubion AI Lab
 - Welcome to my GitHub, enjoy your life
-<div align=left>
+<!-- <div align=left>
     <img alt="" src="https://simpleicons.org/icons/buymeacoffee.svg" width=5%>  
         
-</div>
+</div> -->
 <br/>
   
   
