@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=geray&height=300&section=header&text=rovivoy88%22&fontSize=90&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=lightgrey&height=300&section=header&text=rovivoy88&fontSize=90)
 
 'HI THERE, I'M Rovi Kim👋'
 -------
